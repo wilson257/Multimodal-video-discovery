@@ -1,5 +1,5 @@
 # Working on multimodal search system that can:
-Searching the metadata for information
+## Searching the metadata for information
 Detecting as many shot types as possible (e.g., long shot, medium shot, American shot, close-up, extreme close-up)
 Detecting shot transitions (cuts)
 Identifying objects, locations, people, actions, etc. in single shots
